@@ -1,0 +1,28 @@
+aturan,tahun motor,harga beli,kondisi,harga jual
+[R1],Lama,Murah,Jelek,Murah
+[R2],Lama,Murah,Sedang,Murah
+[R3],Lama,Murah,Bagus,Murah
+[R4],Lama,Normal,Jelek,Agak Mahal
+[R5],Lama,Normal,Sedang,Agak Mahal
+[R6],Lama,Normal,Bagus,Agak Mahal
+[R7],Lama,Mahal,Jelek,Agak Mahal
+[R8],Lama,Mahal,Sedang,Mahal
+[R9],Lama,Mahal,Bagus,Mahal
+[R10],Agak Lama,Murah,Jelek,Murah
+[R11],Agak Lama,Murah,Sedang,Murah
+[R12],Agak Lama,Murah,Bagus,Murah
+[R13],Agak Lama,Normal,Jelek,Agak Mahal
+[R14],Agak Lama,Normal,Sedang,Agak Mahal
+[R15],Agak Lama,Normal,Bagus,Agak Mahal
+[R16],Agak Lama,Mahal,Jelek,Mahal
+[R17],Agak Lama,Mahal,Sedang,Mahal
+[R18],Agak Lama,Mahal,Bagus,Mahal
+[R19],Baru,Murah,Jelek,Agak Mahal
+[R20],Baru,Murah,Sedang,Murah
+[R21],Baru,Murah,Bagus,Mahal
+[R22],Baru,Normal,Jelek,Agak Mahal
+[R23],Baru,Normal,Sedang,Agak Mahal
+[R24],Baru,Normal,Bagus,Agak Mahal
+[R25],Baru,Mahal,Jelek,Agak Mahal
+[R26],Baru,Mahal,Sedang,Mahal
+[R27],Baru,Mahal,Bagus,Mahal
